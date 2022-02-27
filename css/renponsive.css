@@ -43,7 +43,7 @@
 }
 
 /*Mobile*/
-@media (min-width: 740px){
+@media (max-width: 740px) and (min-height: 1079){
     .s-full-width,
     .s-col-full{
         width: 100%;
